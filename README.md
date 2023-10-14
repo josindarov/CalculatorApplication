@@ -10,3 +10,7 @@ Result : 15
 Option 2 :
 Enter comma-separated (,) integer values: 2,3,4,5,6
 Result: 20
+
+
+https://github.com/jurabek004/CalculatorApplication/assets/94104009/dab7ac39-e006-4220-803b-80aabbf4925a
+
